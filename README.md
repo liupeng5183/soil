@@ -45,6 +45,7 @@ task = geemap.ee_export_image_to_drive(
 
 * `old_code_claude.ipynb`：旧版本代码，由Claude编写。
 * `newcode_cell1.ipynb` 与 `newcode_cell2.ipynb`：部分实现新技术路线的代码片段。
+* `gee data`：gee的官方数据集调用、bands、示例代码。
 
 ## 研究目标
 
